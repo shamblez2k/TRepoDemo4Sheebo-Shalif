@@ -1,5 +1,5 @@
 {
-  "extends": "C:/Users/Shalif/TRepo/packages/tsconfig/nextjs.json",
+  "extends": "C:/Users/Shalif/TRepoDemo4Sheebo-Shalif/packages/tsconfig/nextjs.json",
   "compilerOptions": {
     "jsx": "react",
     
